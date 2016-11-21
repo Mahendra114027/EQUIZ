@@ -14,11 +14,13 @@ body {
 	color: #000000;
 	font-weight: bold;
 }
-.style5 {color: #990033}
+.style5 {color: #990033
+        }
 .style6 {color: #ECE9D8}
 .style7 {
 	color: #993300;
 	font-weight: bold;
+    text-align: center;
 }
 .style8 {
 	color: #6633CC;
